@@ -32,8 +32,4 @@ These live in private repositories. They hold customer and pupil data, so the co
 
 ---
 
-#### Currently
-
-Looking for a role where product judgement and delivery belong together: product engineer, solutions engineer, full-stack. Remote or Hamburg.
-
 📫 info@flamingbattenberg.de
