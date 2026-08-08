@@ -23,12 +23,6 @@ Diese Systeme liegen in privaten Repositories. Sie enthalten Kunden- und Schüle
 
 ---
 
-#### So arbeite ich
-
-Große Teile der Implementierung setze ich mit KI-Coding-Agents um: Claude, Codex, Antigravity. Architektur, Datenmodell und Produktentscheidungen stammen von mir. Review, Tests, Datenschutz und Betrieb ebenso. Es geht nichts live, was ich nicht gelesen habe.
-
----
-
 #### Stack
 
 `TypeScript` `JavaScript` `Swift` `SQL`
@@ -36,11 +30,5 @@ Große Teile der Implementierung setze ich mit KI-Coding-Agents um: Claude, Code
 `Node.js` `Fastify` `Express` `Prisma` `PostgreSQL` `Redis` `WebSockets`
 `Electron` `Docker` `Traefik` `nginx`
 `Stripe` `Adyen` `pdf-lib` `FFmpeg` `WebCrypto`
-
----
-
-#### Gerade
-
-Ich suche eine Rolle, in der Produktverständnis und Umsetzung zusammengehören: Product Engineer, Solutions Engineer, Full-Stack. Remote oder Hamburg.
 
 📫 info@flamingbattenberg.de
