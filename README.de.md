@@ -4,7 +4,7 @@
 
 🇬🇧 [Read in English](README.md)
 
-Ich baue die Software, die den Umweg ersetzt.
+Ich baue Software, die Umwege ersetzt.
 
 Seit 2013 bin ich bei Yamaha: erst Klavierlehrer, dann Schulverwaltung, dann Seminarleiter. Heute verantworte ich die pädagogische Ausbildung von rund 1.800 Lehrkräften an etwa 600 Schulen in 18 Ländern. Aus dieser Arbeit sind drei Systeme entstanden.
 
@@ -19,7 +19,7 @@ Seit 2013 bin ich bei Yamaha: erst Klavierlehrer, dann Schulverwaltung, dann Sem
 | **[Live-Workout-Plattform](https://flamingbattenberg.de/case/live-workout-platform)** | Im Testbetrieb, vor dem Go-live | Ein WordPress-Plugin-Stapel wird durch eine eigene Plattform ersetzt: Live-Workout, servergeführte Zeit, serverseitiges Rendering, Abrechnung über Stripe. Rund fünf Stunden Nachbearbeitung pro Video entfallen damit. |
 | **[Hangar](https://flamingbattenberg.de/case/hangar)** | Täglich im Einsatz, 1.0 vor Herbst 2026 | Native macOS-App, die acht Werkzeuge zu einer Arbeitsumgebung für KI-gestützte Entwicklung zusammenzieht. 15 Projekte laufen aktiv darüber. |
 
-Diese Systeme liegen in privaten Repositories. Sie enthalten Kunden- und Schülerdaten, deshalb bleibt der Code, wo er ist. Architektur, Entscheidungen und Zahlen stehen in den Case Studies.
+Diese Systeme liegen in privaten Repositories. Architektur, Entscheidungen und Zahlen stehen in den Case Studies.
 
 ---
 
