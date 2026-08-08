@@ -20,13 +20,6 @@ I have been at Yamaha since 2013: first teaching piano, then running a school of
 | **[Hangar](https://flamingbattenberg.de/case/hangar)** | In daily use, 1.0 before autumn 2026 | Native macOS app pulling eight tools into one working environment for AI-assisted development. 15 projects run through it. |
 
 These live in private repositories. They hold customer and pupil data, so the code stays where it is. The case studies carry the architecture, the decisions and the numbers.
-
----
-
-#### How I work
-
-Nowadays, I build large parts of the implementation with AI coding agents: Claude, Codex, Antigravity. Architecture, data model and product decisions are mine. So are review, testing, data protection and running things in production. Nothing goes live here that I have not read.
-
 ---
 
 #### Stack
