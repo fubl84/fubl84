@@ -19,7 +19,7 @@ I have been at Yamaha since 2013: first teaching piano, then running a school of
 | **[Live workout platform](https://flamingbattenberg.de/case/live-workout-platform)** | In testing, before go-live | A WordPress plugin stack replaced by a platform of its own: live workouts, server-governed timing, server-side rendering, Stripe billing. Around five hours of post-production per video disappear with it. |
 | **[Hangar](https://flamingbattenberg.de/case/hangar)** | In daily use, 1.0 before autumn 2026 | Native macOS app pulling eight tools into one working environment for AI-assisted development. 15 projects run through it. |
 
-These live in private repositories. They hold customer and pupil data, so the code stays where it is. The case studies carry the architecture, the decisions and the numbers.
+These live in private repositories. The case studies carry the architecture, the decisions and the numbers.
 ---
 
 #### Stack
